@@ -1,0 +1,4 @@
+git fetch
+git merge
+equal to
+git pull
